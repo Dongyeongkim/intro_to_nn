@@ -1,7 +1,7 @@
 import jax.numpy as np
 
 def f(x):
-    return 1e-4*(x**2)
+    return (1e-4)*(x**2)
 
 # START DEFINE YOUR FUNCTION HERE
 
